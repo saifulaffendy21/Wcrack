@@ -44,7 +44,7 @@
 [^] 32-> 8C18D9XXXXXX >< 94A7B7XXXXXX [Deauthentication]
 [^] 32-> FFFFFFXXXXXX >< 94A7B7XXXXXX [Deauthentication]
 [^] 32-> 8C18D9XXXXXX >< 94A7B7XXXXXX [Deauthentication]
-[+] Handshake 94A7B74ECB9E (zte) [Captured]
+[+] Handshake 94A7B7XXXXXX (zte) [Captured]
 [+] Handshake >> [capfile] Count [4] [Saved]
 Opening capfile
 Reading packets, please wait...
