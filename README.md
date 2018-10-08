@@ -69,3 +69,4 @@ Reading packets, please wait...
       EAPOL HMAC     : DD D8 F7 71 CC E8 C6 15 FB CB 46 97 CC 22 6D 30 
 
 ```
+- 1m wlist : https://github.com/rebe11ion/TMP_workspace/blob/master/10m_wordlist.tar.gz
